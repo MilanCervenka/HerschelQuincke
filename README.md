@@ -1,0 +1,11 @@
+# MATLAB codes for article "On the silencing performance of $N$-branch arrangement of Herschel-Quincke tube"
+
+
+This MATLAB code can be used to calculate the transmission loss of a multi-branch Herschel-Quincke silencer. 
+
+Specifically, the script *runme.m* calculates the transmission loss of 2-branch, 3-branch, and 4-branch silencer optimized for the frequency range 350Hz-650Hz.  Figure 13 from the article is generated.
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?project=https://github.com/MilanCervenka/HerschelQuincke)
+
+Author: [Milam Cervenka](https://phys.fel.cvut.cz/en/person/?who=cervenm3&jaz=en), <milan.cervenka@fel.cvut.cz>
+
