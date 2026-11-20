@@ -7,9 +7,9 @@ The algorithm is described in article: Milan Cervenka, On the silencing performa
 Journal of Sound and Vibration 650 (2027) 120259.
 
 <p align="center">
-  <img src="graphical_abstract.png"
+  <img src="graphical_abstract.jpg"
        alt="Graphical abstract"
-       width="700">
+       width="100%">
 </p>
 
 [Link to the open-access article in Journal of Sound and Vibration](https://doi.org/10.1016/j.jsv.2026.120259)
